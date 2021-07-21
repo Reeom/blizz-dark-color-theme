@@ -2,7 +2,7 @@
     "name": "blizz-dark",
     "displayName": "Blizz",
     "description": "Blizz dark theme",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "engines": {
         "vscode": "^1.58.0"
     },
