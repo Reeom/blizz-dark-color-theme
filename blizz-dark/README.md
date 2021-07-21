@@ -1,3 +1,3 @@
 # Blizz theme 🎨
-- Random mixture of colors 
+- Colors reimagined 
 - Better contrast to keep you awake while working
