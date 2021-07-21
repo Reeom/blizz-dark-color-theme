@@ -6,7 +6,7 @@
     "engines": {
         "vscode": "^1.58.0"
     },
-    "icon": "https://raw.githubusercontent.com/Reeom/blizz-dark-color-theme/master/blizz-dark/blizz.png",
+    "icon": "blizz.png",
     "galleryBanner": {
         "color": "#17191D",
         "theme": "dark"
@@ -22,9 +22,7 @@
     "author": "Reeom",
     "publisher": "Reeom",
     "license": "ISC",
-    "repository": {
-        "link": "https://github.com/Reeom/blizz-dark-color-theme"
-    },
+    "repository": "https://github.com/Reeom/blizz-dark-color-theme",
     "categories": [
         "Themes"
     ],
