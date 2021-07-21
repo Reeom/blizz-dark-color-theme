@@ -22,6 +22,9 @@
     "author": "Reeom",
     "publisher": "Reeom",
     "license": "ISC",
+    "repository": {
+        "link": "https://github.com/Reeom/blizz-dark-color-theme",
+    },
     "categories": [
         "Themes"
     ],
