@@ -2,11 +2,11 @@
     "name": "blizz-dark",
     "displayName": "Blizz",
     "description": "Blizz dark theme",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "engines": {
         "vscode": "^1.58.0"
     },
-    "icon": "blizz.png",
+    "icon": "https://raw.githubusercontent.com/Reeom/blizz-dark-color-theme/master/blizz-dark/blizz.png",
     "galleryBanner": {
         "color": "#17191D",
         "theme": "dark"
