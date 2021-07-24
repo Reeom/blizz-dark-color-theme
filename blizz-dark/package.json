@@ -3,10 +3,10 @@
     "displayName": "Blizz",
     "description": "Blizz dark theme",
     "version": "1.0.4",
+    "icon": "blizz.png",
     "engines": {
         "vscode": "^1.58.0"
     },
-    "icon": "https://raw.githubusercontent.com/Reeom/blizz-dark-color-theme/master/blizz-dark/blizz.png",
     "galleryBanner": {
         "color": "#17191D",
         "theme": "dark"
@@ -14,10 +14,13 @@
     "keywords": [
         "Color",
         "theme",
-        "theme",
         "Blizz",
         "blizz",
-        "themes"
+        "themes",
+        "Reoom",
+        "dark theme",
+        "@Category: theme",
+        "@Category: themes"
     ],
     "author": "Reeom",
     "publisher": "Reeom",
