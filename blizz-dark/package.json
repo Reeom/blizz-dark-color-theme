@@ -19,8 +19,8 @@
         "themes",
         "Reoom",
         "dark theme",
-        "@Category: theme",
-        "@Category: themes"
+        "category: theme",
+        "category: themes"
     ],
     "author": "Reeom",
     "publisher": "Reeom",
